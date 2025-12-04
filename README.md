@@ -1,4 +1,4 @@
-![sults.ico]
+![sults icon](sults.ico)
 
 ### PARÂMETROS
 
